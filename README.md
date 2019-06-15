@@ -7,6 +7,7 @@ Welcome to the GraphQL query language course! Really glad that you're here. Belo
 - [Pet Library API](https://pet-library.moonhighway.com)
 - [Funded Pet Library API](https://funded-pet-library.moonhighway.com)
 - [Slides](https://slides.com/moonhighway/query-language-diagrams/)
+- [Snowtooth API](https://snowtooth.moonhighway.com), [Snowtooth API Lab](https://slides.com/moonhighway/snowtooth-query-lab)
 
 ## GraphQL Docs & Resources 📃
 
