@@ -4,10 +4,11 @@ Welcome to the GraphQL query language course! Really glad that you're here. Belo
 
 ## Links for the Course 🔗
 
+- [Slides](https://slides.com/moonhighway/query-language-workshop/)
 - [Pet Library API](https://pet-library.moonhighway.com)
 - [Funded Pet Library API](https://funded-pet-library.moonhighway.com)
-- [Slides](https://slides.com/moonhighway/query-language-diagrams/)
-- [Snowtooth API](https://snowtooth.moonhighway.com), [Snowtooth API Lab](https://slides.com/moonhighway/snowtooth-query-lab)
+- [GitHub GraphQL API](https://developer.github.com/v4/explorer/)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
 
 ## GraphQL Docs & Resources 📃
 
